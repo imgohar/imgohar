@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @imgohar
-- 👀 I’m interested in react/laravel
-- 🌱 I’m currently learning graphql
 
 <!---
 imgohar/imgohar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
